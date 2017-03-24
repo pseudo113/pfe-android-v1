@@ -1,0 +1,11 @@
+{
+  "users": [   {
+    "ad_user_id": 1003723,
+    "gps": "36.837568,10.202678",
+    "email": "superuser@gmail.com",
+    "phone": null,
+    "name": "admin",
+    "password": "adminlbs2017"
+  }],
+  "erreur": "OK"
+}

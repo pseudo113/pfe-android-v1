@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="direction_url">https://maps.googleapis.com/maps/api/directions/json?origin=%1$s&amp;destination=%2$s&amp;waypoints=optimize:true|%3$s&amp;key=%4$s</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/product_cardview"
+    android:padding="10dp"
+    android:layout_margin="10dp"
+    android:weightSum="1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1.0"
+        >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:id="@+id/product_value_textView"
+            android:textColor="@color/colorPrimary"
+            android:layout_gravity="center_vertical"
+            style="?android:textAppearanceMedium"
+            android:layout_weight="0.2" />
+
+        <TextView
+            android:layout_marginLeft="5dp"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/product_name_textView"
+            android:textColor="@color/colorPrimary"
+            android:layout_gravity="center_vertical"
+            style="?android:textAppearanceMedium"
+            android:layout_weight="0.6" />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:id="@+id/quantity"
+            android:selectAllOnFocus="true"
+            android:layout_gravity="center_vertical"
+            android:inputType="numberDecimal"/>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

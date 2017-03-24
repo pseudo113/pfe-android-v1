@@ -1,0 +1,169 @@
+{
+  "erreur": "OK",
+  "cities":    [
+    {
+      "c_city_id": 1000002,
+      "name": "Tozeur"
+    },
+    {
+      "c_city_id": 1000003,
+      "name": "Gammarth"
+    },
+    {
+      "c_city_id": 1000005,
+      "name": "Bon Lieu SUD 02"
+    },
+    {
+      "c_city_id": 1000006,
+      "name": "Menzeh"
+    },
+    {
+      "c_city_id": 1000007,
+      "name": "Beja"
+    },
+    {
+      "c_city_id": 1000008,
+      "name": "Sfax"
+    },
+    {
+      "c_city_id": 1000009,
+      "name": "Bizerte"
+    },
+    {
+      "c_city_id": 1000010,
+      "name": "Gabes"
+    },
+    {
+      "c_city_id": 1000011,
+      "name": "Gafsa"
+    },
+    {
+      "c_city_id": 1000012,
+      "name": "Jendouba"
+    },
+    {
+      "c_city_id": 1000013,
+      "name": "Kairouan"
+    },
+    {
+      "c_city_id": 1000014,
+      "name": "Kasserine"
+    },
+    {
+      "c_city_id": 1000015,
+      "name": "Kebili"
+    },
+    {
+      "c_city_id": 1000016,
+      "name": "Kef"
+    },
+    {
+      "c_city_id": 1000017,
+      "name": "Mahdia"
+    },
+    {
+      "c_city_id": 1000018,
+      "name": "Manouba"
+    },
+    {
+      "c_city_id": 1000019,
+      "name": "Medenine"
+    },
+    {
+      "c_city_id": 1000020,
+      "name": "Monastir"
+    },
+    {
+      "c_city_id": 1000021,
+      "name": "Nabeul"
+    },
+    {
+      "c_city_id": 1000022,
+      "name": "Sfax"
+    },
+    {
+      "c_city_id": 1000023,
+      "name": "Sidi Bouzid"
+    },
+    {
+      "c_city_id": 1000024,
+      "name": "Siliana"
+    },
+    {
+      "c_city_id": 1000025,
+      "name": "Sousse"
+    },
+    {
+      "c_city_id": 1000026,
+      "name": "Tataouine"
+    },
+    {
+      "c_city_id": 1000028,
+      "name": "Zaghouan"
+    },
+    {
+      "c_city_id": 1000042,
+      "name": "Centre ville"
+    },
+    {
+      "c_city_id": 1000036,
+      "name": "Mahragen"
+    },
+    {
+      "c_city_id": 1000037,
+      "name": "Ariana"
+    },
+    {
+      "c_city_id": 1000038,
+      "name": "Ennacer"
+    },
+    {
+      "c_city_id": 1000039,
+      "name": "Riadh El Andalous"
+    },
+    {
+      "c_city_id": 1000040,
+      "name": "Raoued"
+    },
+    {
+      "c_city_id": 1000041,
+      "name": "Bon Lieu SUD 01"
+    },
+    {
+      "c_city_id": 1000029,
+      "name": "La Soukra"
+    },
+    {
+      "c_city_id": 1000030,
+      "name": "La Marsa"
+    },
+    {
+      "c_city_id": 1000031,
+      "name": "Le Kram"
+    },
+    {
+      "c_city_id": 1000032,
+      "name": "Carthage"
+    },
+    {
+      "c_city_id": 1000033,
+      "name": "Sid Bousaid"
+    },
+    {
+      "c_city_id": 1000034,
+      "name": "Ain Zagouan"
+    },
+    {
+      "c_city_id": 1000035,
+      "name": "Laouina"
+    },
+    {
+      "c_city_id": 1000043,
+      "name": "Oued Ellil_M"
+    },
+    {
+      "c_city_id": 1000044,
+      "name": "Oued Ellil_T"
+    }
+  ]
+}

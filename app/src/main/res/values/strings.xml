@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">LBS Suivi Commercial</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Login</string>
+    <string name="prompt_password">Mot de passe</string>
+    <string name="action_sign_in">Valider</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_select_bpartner">Séléction de magasins</string>
+    <string name="title_activity_visit">Nouvelle visite</string>
+    <string name="title_activity_main">Votre parcours</string>
+    <string name="title_activity_sub_bpchooser">Séléction de magasins</string>
+    <string name="search">Recherche</string>
+    <string name="commercial_position_list">commercial_position</string>
+    <string name="title_activity_clear_data_base">ClearDataBaseActivity</string>
+    <string name="title_activity_sub_synchronise">Synchronisation avec Compiere</string>
+    <string name="users">Utilisateur</string>
+    <string name="cities">Ville</string>
+    <string name="subpartners">Magasins</string>
+    <string name="products">Produits</string>
+    <string name="parcours">Parcours</string>
+    <string name="parcours_subpartner">Visites planifiées</string>
+    <string name="parcours_visits">Visites faites</string>
+    <string name="parcours_visits_products">Produits des visites</string>
+    <string name="parcours_visits_pictures">Photos des visites</string>
+</resources>
